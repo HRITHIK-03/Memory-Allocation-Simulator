@@ -1,0 +1,3 @@
+code.c has all the memory allocation algorithms implemented in a menu driven c code 
+
+index.html has the bestfit algorithm implemntation
